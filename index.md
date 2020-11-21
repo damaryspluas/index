@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Computación Paralela
 
 <div>Identificación de objetos</div>
 <button type="button" onclick="init()">Start</button>
